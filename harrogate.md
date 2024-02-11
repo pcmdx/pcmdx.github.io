@@ -24,12 +24,12 @@ Attractions:
 
 ## Harrogate
 
-Nelson Inn: https://maps.app.goo.gl/gscuYps7XGuqZD2q8
-M&S Simply Food: https://maps.app.goo.gl/V9FfYKeBJCoZ7yYm9
+- Nelson Inn: https://maps.app.goo.gl/gscuYps7XGuqZD2q8
+- M&S Simply Food: https://maps.app.goo.gl/V9FfYKeBJCoZ7yYm9
 
 ## Knaresborough
 
-Parking: https://maps.app.goo.gl/pcNHBbyQftDNWyxSA
-Town: https://maps.app.goo.gl/Hsm3yADwnNyaxfsK7
-Pub: https://maps.app.goo.gl/etnJZLHW6uJXbqmD8
-Marigolds Cafe & Boating: https://maps.app.goo.gl/M9XEwiWbTpZYB5Pu9
+- Parking: https://maps.app.goo.gl/pcNHBbyQftDNWyxSA
+- Town: https://maps.app.goo.gl/Hsm3yADwnNyaxfsK7
+- Pub: https://maps.app.goo.gl/etnJZLHW6uJXbqmD8
+- Marigolds Cafe & Boating: https://maps.app.goo.gl/M9XEwiWbTpZYB5Pu9
