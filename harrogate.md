@@ -5,7 +5,9 @@
 - Lunch: Mother Shipton's Inn Knaresborough
 - Afternoon: Knaresborough
 - Tea: M&S Simply Food Harrogate
-Attractions:
+
+### Attractions
+
 - Henshaws Arts & Crafts Centre https://maps.app.goo.gl/rUx6B84c3EViDcVK6
 - Knaresborough Castle and Courthouse Museum https://maps.app.goo.gl/iYeGuHqozBAmdjVq5
 
